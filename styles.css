@@ -1,0 +1,14 @@
+
+  .frame{border-radius:80%;
+    border-color:black;
+    border-width:30px;
+    border-style:inset;}
+  body{background-color:powderblue;}
+  hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%}
+  h1{color:#79b1b1;}
+  h2{color:#79bfb1;}
